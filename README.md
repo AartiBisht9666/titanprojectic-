@@ -1,5 +1,3 @@
--# Titanic Dataset Analysis & Survival Prediction
-
 ## Project Overview
 This project performs Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering, and Preprocessing on the Titanic Dataset to understand the major factors affecting passenger survival and prepare the dataset for machine learning models.
 
